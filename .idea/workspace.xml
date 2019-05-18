@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ba758c3-a388-45a9-9d0f-7a43f26bee15" name="Default" comment="" />
+    <list default="true" id="7ba758c3-a388-45a9-9d0f-7a43f26bee15" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Ajax-Spider.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/crawl_beautifulsoup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/insurance.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/items.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/middlewares.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/pipelines.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders/insurance.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders/insurance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders/zhihu_explore_new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/scrapy.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/lipstick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/movie.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/pdf_flask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/tf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/zhihuCookies.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/zhihu_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/cost_time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/run/people.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/run/run1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/run/run3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Mnist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Motion/deep_sort_yolov3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/PTB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/RNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/SLTM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/language.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/xgb.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,8 +67,8 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$upload.coverage" NAME="upload Coverage Results" MODIFIED="1556581082517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/web" />
     <SUITE FILE_PATH="coverage/PycharmProjects$zhihu_1.coverage" NAME="zhihu_1 Coverage Results" MODIFIED="1536045793490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/PycharmProjects$final.coverage" NAME="final Coverage Results" MODIFIED="1534736657829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$yield.coverage" NAME="yield Coverage Results" MODIFIED="1522384445652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/PycharmProjects$content_spider.coverage" NAME="content_spider Coverage Results" MODIFIED="1555324822521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/tutorial/tutorial/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$yield.coverage" NAME="yield Coverage Results" MODIFIED="1558155237150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/PycharmProjects$multiproceed.coverage" NAME="multiproceed Coverage Results" MODIFIED="1556093701993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$taskManager.coverage" NAME="taskManager Coverage Results" MODIFIED="1522400850184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/PycharmProjects$pdf_filter.coverage" NAME="pdf_filter Coverage Results" MODIFIED="1534034729292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/Spark" />
@@ -163,11 +197,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="rand.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rand.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/rand.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="418">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -175,10 +209,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pipeline.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Models/pipeline.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file leaf-file-name="detection.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv005c51/detection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
+            <state relative-caret-position="2618">
               <caret line="130" column="30" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="30" />
               <folding>
                 <element signature="e#20#38#0" expanded="true" />
@@ -254,6 +293,9 @@
     <dirStrings>
       <dir>C:\Users\junbo\PycharmProjects\Models</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -339,6 +381,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -409,7 +452,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.rand">
+  <component name="RunManager" selected="Python.yield">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -543,7 +586,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="yield" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -551,12 +594,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine learning/Class/inception_v1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine learning/Class/inception_v1/train.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Models/yield.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -693,19 +736,19 @@
       <item itemvalue="Python.Unnamed" />
       <item itemvalue="Python.spider" />
       <item itemvalue="Python.crawl" />
-      <item itemvalue="Python.train" />
       <item itemvalue="Python.py_func" />
       <item itemvalue="Python.tfrecord_read" />
       <item itemvalue="Python.baidu_ocr" />
       <item itemvalue="Python.rand" />
+      <item itemvalue="Python.yield" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.yield" />
         <item itemvalue="Python.rand" />
         <item itemvalue="Python.baidu_ocr" />
         <item itemvalue="Python.tfrecord_read" />
         <item itemvalue="Python.py_func" />
-        <item itemvalue="Python.train" />
       </list>
     </recent_temporary>
   </component>
@@ -747,23 +790,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="11" weight="0.15977444" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50117093" side_tool="true" weight="0.69924814" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49960968" weight="0.49333334" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.863388" visible="true" weight="0.11132076" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.863388" visible="true" weight="0.25141776" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49882904" weight="0.06476191" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.54545456" visible="true" weight="0.21749796" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.54545456" visible="true" weight="0.22240393" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" weight="0.32951757" />
       <window_info anchor="right" id="SciView" order="4" sideWeight="0.78004533" weight="0.11529027" />
       <window_info id="Structure" order="0" sideWeight="0.45454547" side_tool="true" weight="0.26718214" />
       <window_info id="Favorites" order="1" sideWeight="0.26879698" side_tool="true" weight="0.21586263" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.87119436" weight="0.16353384" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="10" weight="0.3298122" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -771,33 +815,33 @@
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.47047618" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="10" weight="0.3298122" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info id="Favorites" order="1" sideWeight="0.26879698" side_tool="true" weight="0.21586263" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.54545456" visible="true" weight="0.21913327" />
       <window_info id="Structure" order="0" sideWeight="0.45454547" side_tool="true" weight="0.26718214" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.15977444" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="3" sideWeight="0.863388" visible="true" weight="0.2857143" />
+      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49960968" weight="0.0" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.4718045" />
       <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="6" sideWeight="0.21995465" side_tool="true" weight="0.53802127" />
       <window_info anchor="right" id="Database" order="3" weight="0.32951757" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49882904" weight="0.4642857" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50117093" side_tool="true" weight="0.69924814" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="10" weight="0.3298122" />
       <window_info anchor="right" id="SciView" order="4" sideWeight="0.78004533" weight="0.11529027" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.87119436" weight="0.16353384" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49960968" weight="0.0" />
+      <window_info id="Favorites" order="1" sideWeight="0.26879698" side_tool="true" weight="0.21586263" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -809,11 +853,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Models/pdf_flask.py</url>
-          <line>45</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://D:/Anaconda/Lib/site-packages/scrapy/core/downloader/middleware.py</url>
           <line>5</line>
@@ -855,55 +894,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/rand.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1310655275/numpy/core/umath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13156">
-          <caret line="598" column="4" selection-start-line="598" selection-start-column="4" selection-end-line="598" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv005c51/detection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2618">
-          <caret line="130" column="30" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="30" />
-          <folding>
-            <element signature="e#20#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/machine learning/Class/inception_v1/download_and_convert_flowers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-818">
-          <caret line="117" column="41" selection-start-line="117" selection-start-column="41" selection-end-line="117" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/machine learning/Class/inception_v1/dataset_utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-647">
-          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/to_tfrecord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv0079f7/icdar2015_to_tfrecords.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv0013c4/to_tfrecord.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv00647b/train_pixel_link.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv004929/pixel_link.py" />
@@ -1028,7 +1018,7 @@
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv005c51/detection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
+        <state relative-caret-position="2618">
           <caret line="130" column="30" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="30" />
           <folding>
             <element signature="e#20#38#0" expanded="true" />
@@ -1036,15 +1026,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/xgb.py" />
+    <entry file="file://$PROJECT_DIR$/Models/tf.py" />
+    <entry file="file://$PROJECT_DIR$/Models/zhihu_request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/rand.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="418">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/yield.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/lipstick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1914">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tools/taskManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/pipeline.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
