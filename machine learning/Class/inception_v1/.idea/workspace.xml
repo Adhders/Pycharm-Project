@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e13e761-936f-4497-a54f-3438623567cc" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ID$flowers.coverage" NAME="flowers Coverage Results" MODIFIED="1554800766684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ID$train.coverage" NAME="train Coverage Results" MODIFIED="1557740342216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$download_and_convert_flowers.coverage" NAME="download_and_convert_flowers Coverage Results" MODIFIED="1554369165263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ID$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1557213686551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$convert.coverage" NAME="convert Coverage Results" MODIFIED="1554368734351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ID$app.coverage" NAME="app Coverage Results" MODIFIED="1554962503534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ID$img.coverage" NAME="img Coverage Results" MODIFIED="1555310162330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ID$download_and_convert_flowers.coverage" NAME="download_and_convert_flowers Coverage Results" MODIFIED="1555130216620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ID$test.coverage" NAME="test Coverage Results" MODIFIED="1554863510095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ID$test_pickle.coverage" NAME="test_pickle Coverage Results" MODIFIED="1556244867970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$img.coverage" NAME="img Coverage Results" MODIFIED="1554360301652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled$train.coverage" NAME="train Coverage Results" MODIFIED="1554622025413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="96" column="37" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>init_fn</find>
+      <find>secure_filename</find>
+      <find>0</find>
+      <find>python</find>
+      <find>deploy</find>
+      <find>clone_inde</find>
+      <find>clone_device</find>
+      <find>clone_index</find>
+      <find>tf.device</find>
+      <find>DeploymentConfig</find>
+      <find>deploy_config</find>
+      <find>_num_ps_tasks</find>
+      <find>clone_on_cpu</find>
+      <find>11386</find>
+      <find>p</find>
+      <find>3</find>
+      <find>ModelParam</find>
+      <find>cfg</find>
+      <find>inception_v3</find>
+      <find>InceptionV3</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0016e0/Bv0016e7/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0016e0/Bv001a9b/app.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0016e0/Bv000d15/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0016e0/Bv002882/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0016e0/Bv0031e3/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0016e0/Bv001cfe/app.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0016e0/Bv004993/app.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0016e0/Bv004996/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00211f/Bv003f68/run.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00211f/Bv003f65/demo.py" />
+        <option value="$PROJECT_DIR$/demmm.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00211f/Bv004f98/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00211f/Bv005161/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv001a40/Bv001cf7/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv002fef/eval.py" />
+        <option value="$PROJECT_DIR$/../nal-chinese-ocr/recognition/ctpn/config.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv003cef/config.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv003e43/config.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv003f7f/eval.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv00542d/app.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv002dc1/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv005e10/config.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv005e75/config.py" />
+        <option value="$PROJECT_DIR$/../recognition/recognition/eval.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv005fe6/eval.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv005d45/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv00653b/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00137d/Bv00137d/run.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00137d/Bv001bdc/run.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00137d/Bv003d31/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv003a88/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv003796/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv003c31/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv00544d/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv005491/app.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv005aaa/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv00067f/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv001829/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv0035df/run.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv003a11/run.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv003c60/run.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00339b/Bv00339e/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00339b/Bv003af0/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00339b/Bv00339b/run.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00607d/Bv00735e/demo.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00607d/Bv007354/run.py" />
+        <option value="$PROJECT_DIR$/test_1.py" />
+        <option value="$PROJECT_DIR$/img.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv007de2/Bv003781/cfg.py" />
+        <option value="$PROJECT_DIR$/train.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="18" />
+    <option name="y" value="615" />
+    <option name="width" value="1299" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ID" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ID" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\junbo\Desktop\ID\run" />
+      <recent name="C:\Users\junbo\Desktop\ID" />
+      <recent name="C:\Users\junbo\Desktop\ID\test" />
+      <recent name="C:\Users\junbo\Desktop\untitled\outputs\checkpoints" />
+      <recent name="C:\Users\junbo\Desktop\untitled" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\junbo\Desktop\ID\templates" />
+      <recent name="C:\Users\junbo\Desktop\untitled" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="download_and_convert_flowers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/download_and_convert_flowers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="img" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/img.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test_pickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_pickle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.img" />
+      <item itemvalue="Python.download_and_convert_flowers" />
+      <item itemvalue="Python.test_1" />
+      <item itemvalue="Python.test_pickle" />
+      <item itemvalue="Python.train" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.test_1" />
+        <item itemvalue="Python.test_pickle" />
+        <item itemvalue="Python.img" />
+        <item itemvalue="Python.download_and_convert_flowers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e13e761-936f-4497-a54f-3438623567cc" name="Default" comment="" />
+      <created>1554193930626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554193930626</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.0" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.12781955" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6466165" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.15789473" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24366312" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32951757" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.06459526" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17334424" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.556391" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32951757" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.15789473" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.06459526" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.12781955" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tensorflow/contrib/slim/python/slim/nets/inception.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv001a40/Bv001a40/eval.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0021f1/Bv002fef/eval.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tensorflow/train/__init__.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv003c31/demo.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv00544d/demo.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv00575c/demo.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv005491/app.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv005a14/app.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv005aaa/demo.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv00067f/demo.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv0017eb/run.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv0035df/run.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv003a11/run.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv003c60/run.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003796/Bv001829/demo.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00339b/Bv00339e/demo.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00339b/Bv0039fb/demo.py" />
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="87" column="19" selection-start-line="87" selection-start-column="3" selection-end-line="87" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00339b/Bv00339b/run.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00339b/Bv003af0/demo.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00607d/Bv00609d/run.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00607d/Bv00607d/demo.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00607d/Bv00735e/demo.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00607d/Bv007354/run.py" />
+    <entry file="file://$PROJECT_DIR$/test_pickle.py" />
+    <entry file="file://$PROJECT_DIR$/test_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2223">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tensorflow/train/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tensorflow/contrib/slim/python/slim/nets/inception_v3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9481">
+          <caret line="512" column="4" selection-start-line="512" selection-start-column="4" selection-end-line="512" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tensorflow/python/training/input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1159">
+          <caret line="895" column="25" selection-start-line="895" selection-start-column="25" selection-end-line="895" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2565" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataset_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1977">
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ID.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flowers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_and_convert_flowers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1368">
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inception_preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ID_test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2008_000288.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2008_000286.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/ID.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1153">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv007de2/Bv003781/cfg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv007de2/Bv00377e/cfg.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv007de2/Bv003a08/cfg.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv007de2/Bv0036d1/predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="149" lean-forward="true" selection-start-line="149" selection-end-line="149" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv007de2/Bv005299/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/tensorflow/contrib/slim/python/slim/learning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2500">
+          <caret line="530" column="4" selection-start-line="530" selection-start-column="4" selection-end-line="530" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/graph.pbtxt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="96" column="37" selection-start-line="96" selection-start-column="37" selection-end-line="96" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

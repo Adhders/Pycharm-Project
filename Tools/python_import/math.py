@@ -1,0 +1,1 @@
+print('math module in python_import_example')
