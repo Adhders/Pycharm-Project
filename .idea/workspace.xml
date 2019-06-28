@@ -2,42 +2,202 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ba758c3-a388-45a9-9d0f-7a43f26bee15" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/allignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/img/contour.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/img/cross.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/img/girl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/img/segmap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/img/test_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/img/test_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/minrect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/rotate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image/unit_joint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Text/AC_automation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Text/chinese_keyword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Text/match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Text/text_resolve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/log/tensoflow_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utils/message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_processing/imbalence_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_processing/pandas_speed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deeplearning/nms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine learning/Ocr/173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine learning/Ocr/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine learning/Ocr/_token.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine learning/Ocr/opencv_ocr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/display/3D show.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/display/Dash_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/display/data/gdp-life-exp-2007.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/display/data/indicators.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/display/data/usa-agricultural-exports-2011.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/display/show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/display/visualization.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PycharmProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Ajax-Spider.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/crawl_beautifulsoup.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/insurance.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/items.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/middlewares.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/pipelines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/settings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders/insurance.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders/insurance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders/request.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders/zhihu_explore_new.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/insurance_spider/scrapy.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/lipstick.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/movie.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/pdf_flask.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/tf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/zhihuCookies.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/zhihu_request.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/cost_time.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/run/people.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/run/run1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tools/run/run3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine learning/Mnist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine learning/Motion/deep_sort_yolov3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine learning/PTB.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine learning/RNN.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine learning/SLTM.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine learning/language.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/machine learning/xgb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/app_response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/pdf_flask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/templates/upload.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/upload.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/-_Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/-_Copy_-_Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/-_Copy_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/20190418212333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/20190418212345.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/20190418212419.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/20190418212425.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/20190418212429.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/20190418212434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/AI2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/DSC03504_5154acd2c8c82e08a9b719133d757da0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/DSC03505_8962a236c4e8d8121cae4b3bdb83ae41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/DSC0463_6f6019aecc850a21840e76aedd95ee7e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/DSC0464_63d676235f924e5385dbe8486f5e20f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/IMG_2958_da35547077a459b694c45351d7b1ea9a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/IMG_2959_c64be668f8b98157a963c46df283764e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/IMG_2960_0ffd17f4a31793fa1c8e689b63f1fb7b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/IMG_2961_c8485fb81b80b197de747069684375bf.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/IMG_5083_37523c9b89c452a3b683ebc6d9c4f363.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/IMG_5084_aa40f58e1ec6cae4fd6725e6d5f55090.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/IMG_5474_2a5360fbf60ed6c41beead0d7209840c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/IMG_5475_596ec87635a0ca339a40d1338ecfc5c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/IMG_5476_b14eceb0e1fedfbf6aad77644be5a34b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/IMG_5477_c126d198b4bc1b015ff3499df30cbf84.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/run1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/sh_32619_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/web/uploads/sh_32619_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opencv/canny.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image/canny.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opencv/erode_dilate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image/erode_dilate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opencv/threshold.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image/threshold.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/.idea/Tools.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/CTC-LSTM/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/CTC-LSTM/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/CTC-LSTM/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/CTC-LSTM/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/CTC-LSTM/ctc.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/CTC-LSTM/ctc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/CTC-LSTM/edit_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/CTC-LSTM/edit_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/CTC-LSTM/ext_param_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/CTC-LSTM/ext_param_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/CTC-LSTM/main_timit.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/CTC-LSTM/main_timit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/CTC-LSTM/main_toy_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/CTC-LSTM/main_toy_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/CTC-LSTM/timit.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/CTC-LSTM/timit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/CTC-LSTM/toy_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/CTC-LSTM/toy_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/Selective-Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/Selective-Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/Selective-Search2.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/Selective-Search2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/Selective-Search3.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/Selective-Search3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/backpropagation.py" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/backpropagation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/flower.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/flower.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/DL_Tools/seeds_dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/deeplearning/seeds_dataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Multi-Proceed/taskManager.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/log/Multi-Proceed/taskManager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/Multi-Proceed/taskWorker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/log/Multi-Proceed/taskWorker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/DES.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/DES.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/Security.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/Security.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/SecurityMessage/A.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/SecurityMessage/A.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/SecurityMessage/DES.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/SecurityMessage/DES.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/SecurityMessage/Security.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/SecurityMessage/Security.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/SecurityMessage/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image/find_contours.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/SecurityMessage/mer-private-rsa.pfx" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/SecurityMessage/mer-private-rsa.pfx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/SecurityMessage/mer-public-rsa.cer" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/SecurityMessage/mer-public-rsa.cer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/SecurityMessage/pccc-private-rsa.pfx" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/SecurityMessage/pccc-private-rsa.pfx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/SecurityMessage/pccc-public-rsa.cer" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/SecurityMessage/pccc-public-rsa.cer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/SecurityMessage/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/SecurityMessage/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/ghost-private.pem" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/ghost-private.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/ghost-public.pem" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/ghost-public.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/mer-private-rsa.pem" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/mer-private-rsa.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/mer-private-rsa.pfx" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/mer-private-rsa.pfx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/mer-public-rsa.cer" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/mer-public-rsa.cer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/mer-public-rsa.pem" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/mer-public-rsa.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/pccc-private-rsa.pem" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/pccc-private-rsa.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/pccc-private-rsa.pfx" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/pccc-private-rsa.pfx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/pccc-public-rsa.cer" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/pccc-public-rsa.cer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/pccc-public-rsa.pem" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/pccc-public-rsa.pem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/pycrypto.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/pycrypto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/security_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/security_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/SSL/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/association rules/FP-growth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/association rules/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/SSL/SecurityMessage/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/association rules/aprior.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/collect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/log/log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/log/.__logging.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/log/.__logging.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/log/logging.log" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/log/logging.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/log/multiproceed.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/log/multiproceed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/logger.conf" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/log/logger.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/number.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/package_tool/arg_to_iter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/package_tool/arg_to_iter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/package_tool/get_func_args.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/package_tool/get_func_args.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/math.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/other.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/other.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/packA/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/packA/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/packA/a1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/packA/a1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/packA/a2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/packA/a2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/packA/packC/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/packA/packC/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/packA/packC/d.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/packA/packC/d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/packA/subA/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/packA/subA/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/packA/subA/sa1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/packA/subA/sa1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/packA/subA/sa2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/packA/subA/sa2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/python_import/time.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/python_import/time.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/remote_access.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/threads_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/log/threads_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/yield.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utils/yield.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tools/zh_wiki.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data_processing/creditcard.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils/settings/development.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Ocr/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Ocr/1234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Ocr/15118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Ocr/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Ocr/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Ocr/8765.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Ocr/abc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Ocr/baidu_ocr.py" beforeDir="false" afterPath="$PROJECT_DIR$/machine learning/Ocr/baidu_ocr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Ocr/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Ocr/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/Traditional/relation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/Mnist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/PTB.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/RNN.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/SLTM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/detection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/img.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/language.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/py_func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/rand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/read/test_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/read/test_10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/read/test_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/read/test_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/read/test_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/read/test_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/read/test_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/read/test_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/read/test_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/read/test_9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/rotate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/string_input_producer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/tfrecord_read.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/to_tfrecord.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine learning/tensorflow/train_batch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/people_reid/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/people_reid/11783.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,15 +205,18 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PycharmProjects$spider_new.coverage" NAME="spider_new Coverage Results" MODIFIED="1534035728392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/tutorial/tutorial/spiders" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$detect.coverage" NAME="detect Coverage Results" MODIFIED="1528278053972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/Project/Python project/Machine_Learning/train/nal-text-recognition/src" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$detect.coverage" NAME="detect Coverage Results" MODIFIED="1528278053972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python project/Machine_Learning/train/nal-text-recognition/src" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Spider.coverage" NAME="Spider Coverage Results" MODIFIED="1533623234539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/PycharmProjects$rotation.coverage" NAME="rotation Coverage Results" MODIFIED="1531822529862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Thunbnails.coverage" NAME="Thunbnails Coverage Results" MODIFIED="1531900425879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$AC_automation.coverage" NAME="AC_automation Coverage Results" MODIFIED="1561101511554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$pdf2text.coverage" NAME="pdf2text Coverage Results" MODIFIED="1528564677102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$pandas_speed.coverage" NAME="pandas_speed Coverage Results" MODIFIED="1559803407396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/data_processing" />
     <SUITE FILE_PATH="coverage/PycharmProjects$language.coverage" NAME="language Coverage Results" MODIFIED="1557729909948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$baidu_ocr.coverage" NAME="baidu_ocr Coverage Results" MODIFIED="1557825695443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/Ocr" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$baidu_ocr.coverage" NAME="baidu_ocr Coverage Results" MODIFIED="1561108782052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/Ocr" />
     <SUITE FILE_PATH="coverage/PycharmProjects$hello.coverage" NAME="hello Coverage Results" MODIFIED="1533118102118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/PycharmProjects$SpiderNode.coverage" NAME="SpiderNode Coverage Results" MODIFIED="1533179821133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$message.coverage" NAME="message Coverage Results" MODIFIED="1560184570667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$run_demo_server.coverage" NAME="run_demo_server Coverage Results" MODIFIED="1532934393380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/PycharmProjects$w2v.coverage" NAME="w2v Coverage Results" MODIFIED="1550742430822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Ajax_Spider.coverage" NAME="Ajax-Spider Coverage Results" MODIFIED="1555220807875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
@@ -66,11 +229,14 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$spider__1_.coverage" NAME="spider (1) Coverage Results" MODIFIED="1550737864810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/tutorial/tutorial/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$upload.coverage" NAME="upload Coverage Results" MODIFIED="1556581082517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/web" />
     <SUITE FILE_PATH="coverage/PycharmProjects$zhihu_1.coverage" NAME="zhihu_1 Coverage Results" MODIFIED="1536045793490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$eval__1_.coverage" NAME="eval (1) Coverage Results" MODIFIED="1558681178072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$unit_joint.coverage" NAME="unit_joint Coverage Results" MODIFIED="1560408060920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$final.coverage" NAME="final Coverage Results" MODIFIED="1534736657829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$content_spider.coverage" NAME="content_spider Coverage Results" MODIFIED="1555324822521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/tutorial/tutorial/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$yield.coverage" NAME="yield Coverage Results" MODIFIED="1558155237150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/PycharmProjects$multiproceed.coverage" NAME="multiproceed Coverage Results" MODIFIED="1556093701993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$taskManager.coverage" NAME="taskManager Coverage Results" MODIFIED="1522400850184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$text_resolve.coverage" NAME="text_resolve Coverage Results" MODIFIED="1559398237270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/Ocr" />
     <SUITE FILE_PATH="coverage/PycharmProjects$pdf_filter.coverage" NAME="pdf_filter Coverage Results" MODIFIED="1534034729292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/Spark" />
     <SUITE FILE_PATH="coverage/PycharmProjects$pdf.coverage" NAME="pdf Coverage Results" MODIFIED="1536074746332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/PycharmProjects$rsa_sign.coverage" NAME="rsa-sign Coverage Results" MODIFIED="1542055328592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/example-rsa-sign" />
@@ -81,9 +247,12 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$Queue.coverage" NAME="Queue Coverage Results" MODIFIED="1522389444655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/PycharmProjects$rsa_verify.coverage" NAME="rsa-verify Coverage Results" MODIFIED="1542054860184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/example-rsa-sign" />
     <SUITE FILE_PATH="coverage/PycharmProjects$crawl.coverage" NAME="crawl Coverage Results" MODIFIED="1536042081940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$canny.coverage" NAME="canny Coverage Results" MODIFIED="1531811334361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$canny.coverage" NAME="canny Coverage Results" MODIFIED="1561541497626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image" />
     <SUITE FILE_PATH="coverage/PycharmProjects$slice.coverage" NAME="slice Coverage Results" MODIFIED="1534142110552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$relation.coverage" NAME="relation Coverage Results" MODIFIED="1534243597144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$match.coverage" NAME="match Coverage Results" MODIFIED="1559396558278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/Ocr" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$tensoflow_log.coverage" NAME="tensoflow_log Coverage Results" MODIFIED="1558513040050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/log" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$ISR.coverage" NAME="ISR Coverage Results" MODIFIED="1559172204177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Mnist.coverage" NAME="Mnist Coverage Results" MODIFIED="1527954532545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/PycharmProjects$tfrecord_read.coverage" NAME="tfrecord_read Coverage Results" MODIFIED="1557821284083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/tensorflow" />
     <SUITE FILE_PATH="coverage/PycharmProjects$pdf_spilt__1_.coverage" NAME="pdf_spilt (1) Coverage Results" MODIFIED="1528557001312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
@@ -96,6 +265,7 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$Selective_Search3.coverage" NAME="Selective-Search3 Coverage Results" MODIFIED="1545313088555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/DL_Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$words.coverage" NAME="words Coverage Results" MODIFIED="1534420179338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$zhihu_login.coverage" NAME="zhihu_login Coverage Results" MODIFIED="1535705610829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$threshold.coverage" NAME="threshold Coverage Results" MODIFIED="1561359252526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image" />
     <SUITE FILE_PATH="coverage/PycharmProjects$FP_growth.coverage" NAME="FP-growth Coverage Results" MODIFIED="1534578094602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$py_test_in_threads_log_py.coverage" NAME="py.test in threads_log.py Coverage Results" MODIFIED="1548993031442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$key_word.coverage" NAME="key-word Coverage Results" MODIFIED="1534494036819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
@@ -103,6 +273,7 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$word_synthesis__1_.coverage" NAME="word_synthesis (1) Coverage Results" MODIFIED="1531814146427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$lmdb.coverage" NAME="lmdb Coverage Results" MODIFIED="1546841098874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$setup.coverage" NAME="setup Coverage Results" MODIFIED="1524499315991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="C:/tmp" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$imbalence_data.coverage" NAME="imbalence_data Coverage Results" MODIFIED="1559400646269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/tensorflow" />
     <SUITE FILE_PATH="coverage/PycharmProjects$a1.coverage" NAME="a1 Coverage Results" MODIFIED="1556004650424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/python_import/packA" />
     <SUITE FILE_PATH="coverage/PycharmProjects$DES.coverage" NAME="DES Coverage Results" MODIFIED="1542171309761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$spider__2_.coverage" NAME="spider (2) Coverage Results" MODIFIED="1536045294938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/tutorial/tutorial/spiders" />
@@ -111,30 +282,38 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$delete.coverage" NAME="delete Coverage Results" MODIFIED="1534752063384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$pycrypto.coverage" NAME="pycrypto Coverage Results" MODIFIED="1542216412810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$erode_dilate.coverage" NAME="erode_dilate Coverage Results" MODIFIED="1532356035147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Opencv" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$log.coverage" NAME="log Coverage Results" MODIFIED="1548662097560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$log.coverage" NAME="log Coverage Results" MODIFIED="1559116088826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/log" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$visualization.coverage" NAME="visualization Coverage Results" MODIFIED="1559392672051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/display" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$3D.coverage" NAME="3D Coverage Results" MODIFIED="1559393012667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/display" />
     <SUITE FILE_PATH="coverage/PycharmProjects$pdf_spilt.coverage" NAME="pdf_spilt Coverage Results" MODIFIED="1548685508391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$remote_access.coverage" NAME="remote_access Coverage Results" MODIFIED="1536230114363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Dash_input.coverage" NAME="Dash_input Coverage Results" MODIFIED="1559398105025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/display" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Dynamic_Spider.coverage" NAME="Dynamic Spider Coverage Results" MODIFIED="1522668981466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/PycharmProjects$arg_to_iter.coverage" NAME="arg_to_iter Coverage Results" MODIFIED="1539615464931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/package_tool" />
     <SUITE FILE_PATH="coverage/PycharmProjects$aprior.coverage" NAME="aprior Coverage Results" MODIFIED="1534486602207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$token.coverage" NAME="token Coverage Results" MODIFIED="1559821827975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/Ocr" />
     <SUITE FILE_PATH="coverage/PycharmProjects$style_change.coverage" NAME="style_change Coverage Results" MODIFIED="1528265176327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/PycharmProjects$tf.coverage" NAME="tf Coverage Results" MODIFIED="1557716669318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$rotate.coverage" NAME="rotate Coverage Results" MODIFIED="1561434487025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$thread.coverage" NAME="thread Coverage Results" MODIFIED="1544599053191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/PycharmProjects$ControlNode.coverage" NAME="ControlNode Coverage Results" MODIFIED="1533180078065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/PycharmProjects$excel_to_text.coverage" NAME="excel_to_text Coverage Results" MODIFIED="1534154108003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$zhihu_spider.coverage" NAME="zhihu_spider Coverage Results" MODIFIED="1550737880376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/tutorial/tutorial/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$zhihu_request.coverage" NAME="zhihu_request Coverage Results" MODIFIED="1554974337192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$demo.coverage" NAME="demo Coverage Results" MODIFIED="1561114984207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/PycharmProjects$zhihu_3.coverage" NAME="zhihu_3 Coverage Results" MODIFIED="1536050616395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$allignment.coverage" NAME="allignment Coverage Results" MODIFIED="1561567227087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image" />
     <SUITE FILE_PATH="coverage/PycharmProjects$PTB.coverage" NAME="PTB Coverage Results" MODIFIED="1525799459494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/PycharmProjects$new.coverage" NAME="new Coverage Results" MODIFIED="1548668795555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/test" />
     <SUITE FILE_PATH="coverage/PycharmProjects$secret.coverage" NAME="secret Coverage Results" MODIFIED="1542018863635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$time.coverage" NAME="time Coverage Results" MODIFIED="1532663117693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$marathon_picture.coverage" NAME="marathon_picture Coverage Results" MODIFIED="1557215923353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/tutorial/tutorial/spiders" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$collect.coverage" NAME="collect Coverage Results" MODIFIED="1542448342055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$collect.coverage" NAME="collect Coverage Results" MODIFIED="1559387334176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Selective_Search2.coverage" NAME="Selective-Search2 Coverage Results" MODIFIED="1545312046410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/DL_Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$zhihu_2.coverage" NAME="zhihu_2 Coverage Results" MODIFIED="1535815924502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/PycharmProjects$xiaohua.coverage" NAME="xiaohua Coverage Results" MODIFIED="1554979665861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pic" />
     <SUITE FILE_PATH="coverage/PycharmProjects$picture.coverage" NAME="picture Coverage Results" MODIFIED="1557472871680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/tutorial/tutorial/spiders" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$opencv_ocr.coverage" NAME="opencv_ocr Coverage Results" MODIFIED="1559038467129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/Ocr" />
     <SUITE FILE_PATH="coverage/PycharmProjects$word2vec.coverage" NAME="word2vec Coverage Results" MODIFIED="1534141714843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$ControlNode__1_.coverage" NAME="ControlNode (1) Coverage Results" MODIFIED="1522427904961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/PycharmProjects$request.coverage" NAME="request Coverage Results" MODIFIED="1554974302068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders" />
@@ -147,28 +326,32 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$generator.coverage" NAME="generator Coverage Results" MODIFIED="1546842880942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/Spark" />
     <SUITE FILE_PATH="coverage/PycharmProjects$gevent.coverage" NAME="gevent Coverage Results" MODIFIED="1522425748857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/PycharmProjects$train_batch.coverage" NAME="train_batch Coverage Results" MODIFIED="1557734931083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/tensorflow" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$rand.coverage" NAME="rand Coverage Results" MODIFIED="1558138458837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/tensorflow" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$rand.coverage" NAME="rand Coverage Results" MODIFIED="1558344891622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/tensorflow" />
     <SUITE FILE_PATH="coverage/PycharmProjects$SLTM.coverage" NAME="SLTM Coverage Results" MODIFIED="1527953627348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/PycharmProjects$baidu_pic_spider.coverage" NAME="baidu_pic_spider Coverage Results" MODIFIED="1554971242807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu_pic_spider/PicSpider" />
     <SUITE FILE_PATH="coverage/PycharmProjects$a2.coverage" NAME="a2 Coverage Results" MODIFIED="1547819586428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/python_import" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Image_aug.coverage" NAME="Image_aug Coverage Results" MODIFIED="1559198770888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$security_print.coverage" NAME="security_print Coverage Results" MODIFIED="1543385795888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/SSL" />
     <SUITE FILE_PATH="coverage/PycharmProjects$insurance.coverage" NAME="insurance Coverage Results" MODIFIED="1554973506450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/insurance_spider/insurance_spider/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$douyin_download.coverage" NAME="douyin_download Coverage Results" MODIFIED="1555321462818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/PycharmProjects$zhihu.coverage" NAME="zhihu Coverage Results" MODIFIED="1536053843414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1559387326665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$show.coverage" NAME="show Coverage Results" MODIFIED="1559392775208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/display" />
     <SUITE FILE_PATH="coverage/PycharmProjects$object_count.coverage" NAME="object_count Coverage Results" MODIFIED="1542367885187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$iris_class.coverage" NAME="iris_class Coverage Results" MODIFIED="1528439589403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$start.coverage" NAME="start Coverage Results" MODIFIED="1556423066883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/python_import" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$start.coverage" NAME="start Coverage Results" MODIFIED="1559386997003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/python_import" />
     <SUITE FILE_PATH="coverage/PycharmProjects$taskWorker.coverage" NAME="taskWorker Coverage Results" MODIFIED="1522400801843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python" />
     <SUITE FILE_PATH="coverage/PycharmProjects$download_and_convert_flowers.coverage" NAME="download_and_convert_flowers Coverage Results" MODIFIED="1557742879087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/Class/inception_v1" />
     <SUITE FILE_PATH="coverage/PycharmProjects$baidu_spider.coverage" NAME="baidu_spider Coverage Results" MODIFIED="1555048216183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/tutorial/tutorial/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$get.coverage" NAME="get Coverage Results" MODIFIED="1542253111712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$app_scrawl.coverage" NAME="app_scrawl Coverage Results" MODIFIED="1555321847650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1556520534964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/Ocr" />
-    <SUITE FILE_PATH="coverage/PycharmProjects$py_func.coverage" NAME="py_func Coverage Results" MODIFIED="1557753772552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/tensorflow" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1559390604549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$py_func.coverage" NAME="py_func Coverage Results" MODIFIED="1558187776540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/tensorflow" />
     <SUITE FILE_PATH="coverage/PycharmProjects$verify.coverage" NAME="verify Coverage Results" MODIFIED="1532354860295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$py_test_in_test_xgboost_py.coverage" NAME="py.test in test_xgboost.py Coverage Results" MODIFIED="1542448411257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
     <SUITE FILE_PATH="coverage/PycharmProjects$.coverage" NAME="动漫 Coverage Results" MODIFIED="1543387511897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models" />
     <SUITE FILE_PATH="coverage/PycharmProjects$xgb.coverage" NAME="xgb Coverage Results" MODIFIED="1542448662314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$find_contours.coverage" NAME="find_contours Coverage Results" MODIFIED="1561606009685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Flask.coverage" NAME="Flask Coverage Results" MODIFIED="1533032356451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/download" />
     <SUITE FILE_PATH="coverage/PycharmProjects$QunaSpider.coverage" NAME="QunaSpider Coverage Results" MODIFIED="1522668719702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PycharmProjects$Selective_Search.coverage" NAME="Selective-Search Coverage Results" MODIFIED="1545382036473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/DL_Tools" />
@@ -176,7 +359,10 @@
     <SUITE FILE_PATH="coverage/PycharmProjects$turn.coverage" NAME="turn Coverage Results" MODIFIED="1550742038651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/PycharmProjects$spider.coverage" NAME="spider Coverage Results" MODIFIED="1538979805474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Models/tutorial/tutorial/spiders" />
     <SUITE FILE_PATH="coverage/PycharmProjects$tf_test.coverage" NAME="tf_test Coverage Results" MODIFIED="1557726187808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/Gan" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$allignment__1_.coverage" NAME="allignment (1) Coverage Results" MODIFIED="1559392502227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image" />
     <SUITE FILE_PATH="coverage/PycharmProjects$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1556006313347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools/python_import/packA" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$twiml_message.coverage" NAME="twiml_message Coverage Results" MODIFIED="1559956242973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tools" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$eval.coverage" NAME="eval Coverage Results" MODIFIED="1558686457849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/people_reid" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -197,30 +383,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="rand.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/rand.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Text/chinese_keyword.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="220">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pipeline.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Models/pipeline.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Text/AC_automation.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="detection.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv005c51/detection.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/machine learning/Traditional/association rules/aprior.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_processing/pandas_speed.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Python37/Lib/site-packages/pkuseg/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2618">
-              <caret line="130" column="30" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="30" />
+            <state relative-caret-position="-1417">
+              <caret line="189" column="8" selection-start-line="189" selection-start-column="8" selection-end-line="189" selection-end-column="8" />
               <folding>
-                <element signature="e#20#38#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -239,28 +432,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>etree</find>
-      <find>set_crawler</find>
-      <find>_requests_to_follow</find>
-      <find>永城</find>
-      <find>幸福人寿</find>
-      <find>友邦</find>
-      <find>中</find>
-      <find>action</find>
-      <find>交银康联人寿保险有限公司</find>
-      <find>path</find>
-      <find>data</find>
-      <find>X509</find>
-      <find>load_privatekey</find>
-      <find>IMAGE_DIR</find>
-      <find>xrange</find>
-      <find>print(.+)</find>
-      <find>print(.*)</find>
-      <find>masks</find>
-      <find>create_dataset_batch_queue</find>
-      <find>batch_size</find>
-      <find>score_map_shape</find>
-      <find>tf.int32</find>
       <find>tf.int64</find>
       <find>batch_size_per_gpu</find>
       <find>/</find>
@@ -269,6 +440,28 @@
       <find>decode_image_by_join</find>
       <find>random_r</find>
       <find>rotate</find>
+      <find>dataset_factory</find>
+      <find>pixel_link_symbol</find>
+      <find>tfe_metrics</find>
+      <find>util</find>
+      <find>math</find>
+      <find>out_shape</find>
+      <find>image_shape</find>
+      <find>init</find>
+      <find>get_latest_ckpt</find>
+      <find>.DECODE_METHOD_join</find>
+      <find>config</find>
+      <find />
+      <find>print</find>
+      <find>format</find>
+      <find>logging</find>
+      <find>weight_decay</find>
+      <find>slim</find>
+      <find>image</find>
+      <find>time</find>
+      <find>datetime_module</find>
+      <find>print(.+)</find>
+      <find>cv::ImreadModes</find>
     </findStrings>
     <replaceStrings>
       <replace>\s</replace>
@@ -287,11 +480,12 @@
       <replace>message</replace>
       <replace>feature_point_extrac</replace>
       <replace>range</replace>
-      <replace>print($1)</replace>
       <replace>//</replace>
+      <replace>print($1)</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Users\junbo\PycharmProjects\Models</dir>
+      <dir>C:\Users\junbo\PycharmProjects\people_reid</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -300,86 +494,64 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv001763/Bv001a0a/ssd_vgg_preprocessing.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0045a1/Bv0064eb/train_pixel_link.py" />
-        <option value="$PROJECT_DIR$/Models/tf.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv001763/Bv002315/train_pixel_link.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv001118/Bv0025a5/train_pixel_link.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv001118/Bv0029b2/pixel_link.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv001118/Bv000241/train_pixel_link.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv005059/Bv005192/train_pixel_link.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0011e3/Bv0011e3/tf.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0058c0/Bv005a35/pixel_link_symbol.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0011e3/Bv004639/img.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0011e3/Bv0048b0/pixel_link.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0058c0/Bv005edb/config.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0058c0/Bv001573/config.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0058c0/Bv0018f5/icdar2015_to_tfrecords.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0058c0/Bv0058c0/train_pixel_link.py" />
-        <option value="$PROJECT_DIR$/machine learning/Gan/tf_test.py" />
-        <option value="$PROJECT_DIR$/machine learning/tensorflow/train_batch.py" />
-        <option value="$PROJECT_DIR$/machine learning/tensorflow/img.py" />
-        <option value="$PROJECT_DIR$/machine learning/Class/inception_v1/download_and_convert_flowers.py" />
-        <option value="$PROJECT_DIR$/machine learning/Class/inception_v1/spilt.py" />
-        <option value="$PROJECT_DIR$/machine learning/Class/inception_v1/flowers.py" />
-        <option value="$PROJECT_DIR$/machine learning/Class/inception_v1/train.py" />
-        <option value="$PROJECT_DIR$/machine learning/tensorflow/string_input_producer.py" />
-        <option value="$PROJECT_DIR$/machine learning/tensorflow/py_func.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003bd0/Bv006201/ssd_vgg_preprocessing.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003bd0/Bv003bd0/train_pixel_link.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv0079f7/icdar2015_to_tfrecords.py" />
-        <option value="$PROJECT_DIR$/machine learning/tensorflow/to_tfrecord.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv0013c4/to_tfrecord.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv001609/train_pixel_link.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv00323a/train_pixel_link.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv004929/pixel_link.py" />
-        <option value="$PROJECT_DIR$/machine learning/tensorflow/tfrecord_read.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv005885/train_pixel_link.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv0063ab/train_pixel_link.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0040eb/Bv001903/eval.py" />
+        <option value="$PROJECT_DIR$/Tools/settings/development.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv000a1c/Bv005950/run.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv000a1c/Bv003400/eval.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv001de8/Bv00785f/eval.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv001de8/Bv007aa7/eval.py" />
+        <option value="$USER_HOME$/.PyCharm2018.1/system/remote_sources/785045790/-157066646/cv2/__init__.py" />
+        <option value="&lt;b08c9433-716f-445c-a13a-77f9ca62a824&gt;/project/people_reid/eval.py" />
+        <option value="$PROJECT_DIR$/people_reid/eval.py" />
+        <option value="$PROJECT_DIR$/Tools/python_import/start.py" />
+        <option value="$PROJECT_DIR$/machine learning/Ocr/opencv_ocr.py" />
+        <option value="D:/Anaconda/Lib/logging/__init__.py" />
+        <option value="$PROJECT_DIR$/Tools/log/log.py" />
+        <option value="$PROJECT_DIR$/Tools/test.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0044fe/Bv0044fe/test.py" />
+        <option value="$PROJECT_DIR$/Tools/ISR.py" />
+        <option value="$PROJECT_DIR$/Tools/remote_access.py" />
+        <option value="$PROJECT_DIR$/Tools/Image_aug.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv001f10/Bv005a59/demo_test_dpsr.py" />
+        <option value="$PROJECT_DIR$/Tools/allignment.py" />
+        <option value="$PROJECT_DIR$/machine learning/Ocr/match.py" />
+        <option value="$PROJECT_DIR$/Tools/show.py" />
+        <option value="$PROJECT_DIR$/Image/erode_dilate.py" />
+        <option value="$PROJECT_DIR$/Tools/display/3D.py" />
+        <option value="$PROJECT_DIR$/Tools/display/3D show.ipynb" />
+        <option value="$PROJECT_DIR$/machine learning/Ocr/text_search.py" />
+        <option value="$PROJECT_DIR$/Tools/display/indicators.csv" />
+        <option value="$PROJECT_DIR$/Tools/display/Dash_input.py" />
+        <option value="$PROJECT_DIR$/Tools/display/visualization.py" />
+        <option value="$PROJECT_DIR$/machine learning/tensorflow/imbalence_data.py" />
+        <option value="$PROJECT_DIR$/Tools/data_processing/pandas_speed.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv007851/Bv007a0a/test_a.py" />
+        <option value="$PROJECT_DIR$/Models/web/templates/crawler.html" />
+        <option value="$PROJECT_DIR$/machine learning/Ocr/token.py" />
+        <option value="$PROJECT_DIR$/machine learning/Ocr/__init__.py" />
+        <option value="$PROJECT_DIR$/Tools/twiml_message.py" />
+        <option value="$PROJECT_DIR$/Tools/message.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv000bde/Bv001ace/test.py" />
+        <option value="$PROJECT_DIR$/Tools/unit_joint.py" />
         <option value="$PROJECT_DIR$/machine learning/Ocr/baidu_ocr.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv0011c2/ssd_vgg_preprocessing.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv003580/resnet.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv001ff1/pse_predict.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv007174/test_pixel_link_on_any_image.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv000fdd/pixel_link_decode.pyx" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003896/Bv006b8c/tf_image.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003896/Bv007da0/img.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003896/Bv006be8/tf_image.py" />
-        <option value="$PROJECT_DIR$/machine learning/tensorflow/test.py" />
-        <option value="$PROJECT_DIR$/machine learning/tensorflow/detection.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv00472e/detection.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv00216f/test_pixel_link_on_any_image.py" />
-        <option value="$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv005c51/detection.py" />
-        <option value="$PROJECT_DIR$/machine learning/tensorflow/rand.py" />
+        <option value="$USER_HOME$/Desktop/demo.py" />
+        <option value="$PROJECT_DIR$/Tools/rotate.py" />
+        <option value="$PROJECT_DIR$/Image/canny.py" />
+        <option value="$PROJECT_DIR$/Image/allignment.py" />
+        <option value="$USER_HOME$/.PyCharm2018.1/system/python_stubs/-2036615904/cv2/__init__.py" />
+        <option value="D:/Anaconda3/Lib/site-packages/cv2/__init__.py" />
+        <option value="$PROJECT_DIR$/Image/threshold.py" />
+        <option value="$PROJECT_DIR$/Image/find_contours.py" />
+        <option value="$PROJECT_DIR$/Image/minrect.py" />
+        <option value="$PROJECT_DIR$/Tools/DL_Tools/nms.py" />
+        <option value="$PROJECT_DIR$/Text/chinese_keyword.py" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="267" />
-    <option name="width" value="1644" />
-    <option name="height" value="888" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State>
-            <id />
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>AngularJS</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1044" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -398,16 +570,7 @@
             <path>
               <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PycharmProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Tools" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Utils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -417,27 +580,45 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="-&#9;FILE&#9;file://C:/Users/junbo/PycharmProjects/untitled/venv1/Scripts/api-ms-win-core-console-l1-1-0.dll" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Cython" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/machine learning/Class/inception_v1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data_processing" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PycharmProjects" is-module-sdk="true" working-directory="$PROJECT_DIR$">
+        <option name="useSoftWraps" value="true" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PycharmProjects" />
+        <option name="myWorkingDirectory" value="$PROJECT_DIR$" />
+      </console-settings>
+    </option>
+    <option name="myShowDebugConsoleByDefault" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\junbo\PycharmProjects\machine learning\tensorflow" />
-      <recent name="C:\Users\junbo\PycharmProjects\machine learning\Ocr" />
-      <recent name="C:\Users\junbo\PycharmProjects\machine learning\Class\inception_v1\tfrecords" />
-      <recent name="C:\Users\junbo\PycharmProjects\Models\tensorflow" />
-      <recent name="C:\Users\junbo\PycharmProjects\machine learning\Gan" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\junbo\PycharmProjects\machine learning" />
-      <recent name="C:\Users\junbo\PycharmProjects\Tools\association rules" />
-      <recent name="C:\Users\junbo\PycharmProjects\Models\Spark" />
-      <recent name="C:\Users\junbo\PycharmProjects\Models" />
+      <recent name="D:\Project\PycharmProjects\web" />
+      <recent name="D:\Project\PycharmProjects" />
+      <recent name="D:\Project\PycharmProjects\Utils\log" />
+      <recent name="C:\Users\junbo\PycharmProjects\Image\img" />
+      <recent name="C:\Users\junbo\PycharmProjects\Models\web" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\PycharmProjects\data_processing" />
+      <recent name="D:\Project\PycharmProjects\machine learning\Traditional" />
+      <recent name="D:\Project\PycharmProjects\Image" />
+      <recent name="D:\Project\PycharmProjects\Text" />
+      <recent name="D:\Project\PycharmProjects\Tools\DL_Tools" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -452,7 +633,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.yield">
+  <component name="RunManager" selected="Python.chinese_keyword">
+    <configuration default="true" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <option name="PORT" value="30022" />
+      <option name="HOST" value="58.247.8.190" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$" remote-root="/u01/project" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration name="people_reId" type="PyRemoteDebugConfigurationType" factoryName="Python Remote Debug">
+      <option name="PORT" value="0" />
+      <option name="HOST" value="" />
+      <PathMappingSettings>
+        <option name="pathMappings">
+          <list>
+            <mapping local-root="$PROJECT_DIR$" remote-root="/u01/project" />
+          </list>
+        </option>
+      </PathMappingSettings>
+      <option name="REDIRECT_OUTPUT" value="true" />
+      <option name="SUSPEND_AFTER_CONNECT" value="true" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -471,8 +680,11 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="baidu_ocr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="allignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -480,18 +692,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine learning/Ocr" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine learning/Ocr/baidu_ocr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image/allignment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="crawl" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="chinese_keyword" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -499,18 +714,43 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Text" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\junbo\PycharmProjects\Models\crawl_beautifulsoup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Text/chinese_keyword.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="py_func" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="eval" type="PythonConfigurationType" factoryName="Python">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/people_reid" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/people_reid/eval.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_contours" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -518,18 +758,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine learning/tensorflow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine learning/tensorflow/py_func.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image/find_contours.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="rand" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="message" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -537,18 +780,21 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine learning/tensorflow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utils" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine learning/tensorflow/rand.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utils/message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
-    <configuration name="spider" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="minrect" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -556,201 +802,44 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models/tutorial/tutorial/spiders" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Image" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Models/tutorial/tutorial/spiders/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image/minrect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="tfrecord_read" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine learning/tensorflow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine learning/tensorflow/tfrecord_read.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="yield" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Models" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Models/yield.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="TARGET" value="" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-    </configuration>
-    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-    </configuration>
-    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="ADDITIONAL_ARGS" value="" />
-    </configuration>
-    <configuration default="true" type="Python.FlaskServer" factoryName="Flask server">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="launchJavascriptDebuger" value="false" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Nosetests">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_regexPattern" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Twisted Trial">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Python.Unnamed" />
-      <item itemvalue="Python.spider" />
-      <item itemvalue="Python.crawl" />
-      <item itemvalue="Python.py_func" />
-      <item itemvalue="Python.tfrecord_read" />
-      <item itemvalue="Python.baidu_ocr" />
-      <item itemvalue="Python.rand" />
-      <item itemvalue="Python.yield" />
+      <item itemvalue="Python.eval" />
+      <item itemvalue="Python.allignment" />
+      <item itemvalue="Python.find_contours" />
+      <item itemvalue="Python.minrect" />
+      <item itemvalue="Python Remote Debug.people_reId" />
+      <item itemvalue="Python.message" />
+      <item itemvalue="Python.chinese_keyword" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.yield" />
-        <item itemvalue="Python.rand" />
-        <item itemvalue="Python.baidu_ocr" />
-        <item itemvalue="Python.tfrecord_read" />
-        <item itemvalue="Python.py_func" />
+        <item itemvalue="Python.chinese_keyword" />
+        <item itemvalue="Python.message" />
+        <item itemvalue="Python.minrect" />
+        <item itemvalue="Python.find_contours" />
+        <item itemvalue="Python.allignment" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="DEPLOYMENT_SERVER" />
+    <option name="myConnectionId" value="b08c9433-716f-445c-a13a-77f9ca62a824" />
   </component>
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
@@ -765,6 +854,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522332088169</updated>
+      <workItem from="1561610453857" duration="413000" />
+      <workItem from="1561610944272" duration="1410000" />
+      <workItem from="1561612417641" duration="837000" />
+      <workItem from="1561614705403" duration="845000" />
+      <workItem from="1561615601046" duration="570000" />
+      <workItem from="1561616212707" duration="1076000" />
+      <workItem from="1561617336225" duration="229000" />
+      <workItem from="1561617606507" duration="27000" />
+      <workItem from="1561618975015" duration="178000" />
+      <workItem from="1561619365689" duration="10494000" />
+      <workItem from="1561689033949" duration="3377000" />
     </task>
     <servers />
   </component>
@@ -779,6 +879,9 @@
       <configuration name="py.test in threads_log.py" configurationId="tests" />
     </history-entry>
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19456000" />
+  </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -789,66 +892,66 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="0" width="1296" height="696" extended-state="1" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="11" weight="0.15977444" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50117093" side_tool="true" weight="0.69924814" />
+      <window_info id="Structure" order="0" sideWeight="0.20682731" side_tool="true" weight="0.2155102" />
+      <window_info id="Favorites" order="1" sideWeight="0.23962264" side_tool="true" weight="0.30089942" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.7931727" visible="true" weight="0.29526916" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49960968" weight="0.49333334" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.863388" visible="true" weight="0.25141776" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49882904" weight="0.06476191" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.54545456" visible="true" weight="0.22240393" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32951757" />
-      <window_info anchor="right" id="SciView" order="4" sideWeight="0.78004533" weight="0.11529027" />
-      <window_info id="Structure" order="0" sideWeight="0.45454547" side_tool="true" weight="0.26718214" />
-      <window_info id="Favorites" order="1" sideWeight="0.26879698" side_tool="true" weight="0.21586263" />
-      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.87119436" weight="0.16353384" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="10" weight="0.3298122" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.46554935" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.863388" weight="0.3519553" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.87119436" weight="0.5935728" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.07089552" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50204414" side_tool="true" weight="0.36524823" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="10" weight="0.84339625" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.35261193" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.0707635" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49795586" weight="0.4197761" />
+      <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49795586" weight="0.7220149" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="6" sideWeight="0.21995465" side_tool="true" weight="0.53802127" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.47047618" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.0" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32951757" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="6" sideWeight="0.21995465" side_tool="true" weight="0.53802127" />
+      <window_info anchor="right" id="SciView" order="7" sideWeight="0.78004533" weight="0.789861" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info id="Structure" order="0" sideWeight="0.20682731" side_tool="true" weight="0.2155102" />
+      <window_info id="Favorites" order="1" sideWeight="0.23962264" side_tool="true" weight="0.30089942" />
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.7931727" visible="true" weight="0.29526916" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.46554935" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.863388" visible="true" weight="0.3519553" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.87119436" weight="0.5935728" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.54545456" visible="true" weight="0.21913327" />
-      <window_info id="Structure" order="0" sideWeight="0.45454547" side_tool="true" weight="0.26718214" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.07089552" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50204414" side_tool="true" weight="0.36524823" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="10" weight="0.84339625" />
+      <window_info anchor="bottom" id="TODO" order="11" weight="0.35261193" />
+      <window_info anchor="bottom" id="File Transfer" order="12" weight="0.0707635" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49795586" weight="0.4197761" />
+      <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49795586" weight="0.7220149" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="11" weight="0.15977444" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.863388" visible="true" weight="0.2857143" />
-      <window_info anchor="bottom" id="Python Console" order="13" sideWeight="0.49960968" weight="0.0" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.4718045" />
-      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="6" sideWeight="0.21995465" side_tool="true" weight="0.53802127" />
-      <window_info anchor="right" id="Database" order="3" weight="0.32951757" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49882904" weight="0.4642857" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50117093" side_tool="true" weight="0.69924814" />
-      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="10" weight="0.3298122" />
-      <window_info anchor="right" id="SciView" order="4" sideWeight="0.78004533" weight="0.11529027" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.87119436" weight="0.16353384" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" weight="0.0" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32951757" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
-      <window_info id="Favorites" order="1" sideWeight="0.26879698" side_tool="true" weight="0.21586263" />
+      <window_info anchor="right" x="0" y="0" width="273" height="495" id="Documentation" order="6" sideWeight="0.21995465" side_tool="true" weight="0.53802127" />
+      <window_info anchor="right" id="SciView" order="7" sideWeight="0.78004533" weight="0.789861" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -859,17 +962,12 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tools/pdfgen.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://D:/Anaconda/Lib/site-packages/Crypto/Random/OSRNG/nt.py</url>
           <line>27</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Tools/SSL/SecurityMessage/A.py</url>
+          <url>file://$PROJECT_DIR$/Utils/SSL/SecurityMessage/A.py</url>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -882,6 +980,25 @@
           <line>7</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv000eca/Bv001dbd/tf_image.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/people_reid/crnn/eval.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0009ea/Bv0010d7/main.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -890,189 +1007,310 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="17" />
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PycharmProjects$message.coverage" NAME="message Coverage Results" MODIFIED="1561691948917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$find_contours.coverage" NAME="find_contours Coverage Results" MODIFIED="1561627879612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$minrect.coverage" NAME="minrect Coverage Results" MODIFIED="1561690696594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Image" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$chinese_keyword.coverage" NAME="chinese_keyword Coverage Results" MODIFIED="1561692129170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Text" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv0013c4/to_tfrecord.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv00647b/train_pixel_link.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv004929/pixel_link.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv00323a/train_pixel_link.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv006a4c/icdar2015_to_tfrecords.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv005885/train_pixel_link.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv001609/train_pixel_link.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv007ae2/dataset_utils.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv0073e5/pixel_link.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv0063ab/train_pixel_link.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv003580/resnet.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv0039e0/config.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv00743c/pixel_link.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv001ff1/pse_predict.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv000490/pixel_link_decode.pyx" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv007174/test_pixel_link_on_any_image.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv000fdd/pixel_link_decode.pyx" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv007629/pixel_link.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv00647b/Bv0011c2/ssd_vgg_preprocessing.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003896/Bv003fe9/ssd_vgg_preprocessing.py" />
-    <entry file="file://$PROJECT_DIR$/machine learning/Ocr/baidu_ocr.py">
+    <entry file="file://$PROJECT_DIR$/Image/allignment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="385">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/tensorflow/python/ops/random_ops.py">
+    <entry file="file://D:/Anaconda3/Lib/site-packages/cv2/__init__.py" />
+    <entry file="file://D:/Python37/Lib/site-packages/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1925">
-          <caret line="30" column="47" selection-start-line="30" selection-end-line="30" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Anaconda/Lib/site-packages/tensorflow/python/pywrap_tensorflow_internal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="116" lean-forward="true" selection-start-line="116" selection-end-line="116" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003896/Bv007204/img.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003896/Bv006b8c/tf_image.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003896/Bv007da0/img.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003896/Bv000227/tf_image.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003896/Bv006be8/tf_image.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv003896/Bv0002de/tf_image.py" />
-    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/tfrecord_read.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/tensorflow-tfrecord/test.py" />
-    <entry file="file://$USER_HOME$/Desktop/tensorflow-tfrecord/readData.py" />
-    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv000dbd/predict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2991" />
-      </provider>
-    </entry>
-    <entry file="file://D:/Project/Python project/Spider.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image/find_contours.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image/img/test_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image/threshold.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image/img/word.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image/img/segmap.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv0009ea/Bv0010d7/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1982">
+          <folding>
+            <element signature="e#72#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1201333238/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8278" column="4" selection-start-line="8278" selection-start-column="4" selection-end-line="8278" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning/nms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-572">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/Traditional/keywords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image/minrect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="e#100#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/Ocr/tilt.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/Ocr/text_resolve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/Ocr/match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/1.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/detection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1271">
-          <caret line="122" column="28" lean-forward="true" selection-start-line="122" selection-start-column="28" selection-end-line="122" selection-end-column="28" />
-        </state>
+        <state relative-caret-position="-1854" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv00472e/detection.py">
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/eval_pixel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
-        </state>
+        <state relative-caret-position="-198" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv005b38/detection.py">
+    <entry file="file://$PROJECT_DIR$/machine learning/Ocr/opencv_ocr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2418" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/numpy/linalg/linalg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-864">
-          <caret line="2190" column="4" selection-start-line="2190" selection-start-column="4" selection-end-line="2190" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/recognition/DEMO.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="159" column="27" lean-forward="true" selection-start-line="159" selection-start-column="27" selection-end-line="159" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv00216f/test_pixel_link_on_any_image.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1310655275/numpy/core/umath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="598" column="4" selection-start-line="598" selection-start-column="4" selection-end-line="598" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/BvSshSftp/Bv002cc5/Bv005c51/detection.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2618">
-          <caret line="130" column="30" selection-start-line="130" selection-start-column="30" selection-end-line="130" selection-end-column="30" />
+        <state relative-caret-position="-1088">
           <folding>
-            <element signature="e#20#38#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/xgb.py" />
-    <entry file="file://$PROJECT_DIR$/Models/tf.py" />
-    <entry file="file://$PROJECT_DIR$/Models/zhihu_request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/rotate.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/rand.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="-6">
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Models/yield.py">
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/img.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
+        <state relative-caret-position="-132" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Models/lipstick.py">
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/imbalence_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1914">
+        <state>
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#39#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tools/taskManager.py">
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/language.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-82">
+        <state relative-caret-position="-2162">
           <folding>
-            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Models/pipeline.py">
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/RNN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2046" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_processing/imbalence_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/string_input_producer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-314" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/train_batch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/tfrecord_read.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/debug.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/rotate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-512" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image/rotate.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/unit_joint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1056" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/number.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-355">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/log/logger.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image/unit_joint.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/yield.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/log/threads_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Text/text_resolve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Text/match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Utils/message.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/tensorflow/to_tfrecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python37/Lib/site-packages/pkuseg/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1417">
+          <caret line="189" column="8" selection-start-line="189" selection-start-column="8" selection-end-line="189" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Text/chinese_keyword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/Traditional/relation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Text/AC_automation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/Traditional/association rules/aprior.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_processing/pandas_speed.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>

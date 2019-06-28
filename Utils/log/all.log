@@ -1,0 +1,8 @@
+2019-05-29 15:32:33,121 - C:/Users/junbo/PycharmProjects/Tools/log/log.py[line:45] - INFO: info
+2019-05-29 15:32:33,124 - C:/Users/junbo/PycharmProjects/Tools/log/log.py[line:46] - WARNING: 警告
+2019-05-29 15:32:33,125 - C:/Users/junbo/PycharmProjects/Tools/log/log.py[line:47] - ERROR: 报错
+2019-05-29 15:32:33,127 - C:/Users/junbo/PycharmProjects/Tools/log/log.py[line:48] - CRITICAL: 严重
+2019-05-29 15:32:59,893 - C:/Users/junbo/PycharmProjects/Tools/log/log.py[line:45] - INFO: info
+2019-05-29 15:32:59,895 - C:/Users/junbo/PycharmProjects/Tools/log/log.py[line:46] - WARNING: 警告
+2019-05-29 15:32:59,896 - C:/Users/junbo/PycharmProjects/Tools/log/log.py[line:47] - ERROR: 报错
+2019-05-29 15:32:59,896 - C:/Users/junbo/PycharmProjects/Tools/log/log.py[line:48] - CRITICAL: 严重

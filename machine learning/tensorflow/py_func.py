@@ -24,7 +24,8 @@ def main():
     array_b = np.array([[2., 3.]])
     feed_dict = {a: array_a, b: array_b}
     tile_b_value = sess.run(tile_tensor_b, feed_dict = feed_dict)
-    print(tile_b_value)
+    return tile_b_value
 
 if __name__ == '__main__':
-    main()
+    a=main()
+    print(a)
